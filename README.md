@@ -1,2 +1,0 @@
-# ReactTutor
-Created with CodeSandbox
